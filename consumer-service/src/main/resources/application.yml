@@ -1,0 +1,11 @@
+server:
+  port: 8081
+
+logging:
+  level:
+    org.springframework.kafka: DEBUG
+    org.apache.kafka.clients.consumer: DEBUG
+
+spring:
+  application:
+    name: consumer-service
