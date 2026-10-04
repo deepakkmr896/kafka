@@ -1,3 +1,5 @@
 spring:
   application:
     name: producer-service
+
+# https://username:passwordOrPAT@github.com/repo_path
